@@ -8,9 +8,9 @@
   },
   "jenkins-runner.hostConfigs": {
     "pipelines-7080": {
-      "url": "http://jenkins:7080",
-      "user": "admin",
-      "password": "admin",
+      "url": "http://192.168.88.129:7080",
+      "user": "jenkins",
+      "password": "Migu3l09",
       "useCrumbIssuer": true
     }
   }
